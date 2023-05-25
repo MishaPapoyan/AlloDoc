@@ -1,0 +1,18 @@
+.main{
+    position: relative;
+
+}
+.main img{
+    position: absolute;
+    left: 9px;
+    top: 25px;
+}
+.count{
+    background-image: url("../../../images/Ellipse.png");
+    height: 3vh;
+    background-repeat: no-repeat;
+    margin-right: -38px;
+}
+.count span{
+    margin-right:  20px;
+}

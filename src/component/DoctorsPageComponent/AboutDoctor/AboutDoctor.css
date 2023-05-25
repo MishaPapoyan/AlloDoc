@@ -1,0 +1,192 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Main{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #56CCF2;
+    padding: 24px 0;
+    margin-bottom: 57px;
+}
+a{
+    margin-left: 10px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.docs_img > .img img{
+    margin-top: 50px;
+    border-radius: 100%;
+}
+.docs_img,.specialization{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.docs_img > .content{
+    margin-left: 15px;
+    margin-top: 50px;
+
+}
+
+.docs_img > .content h2{
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 29px;
+    text-align: left;
+    color: #FFFFFF;
+    margin-bottom:  10px;
+}
+.docs_img > .content p{
+    font-family: Montserrat;
+    margin-bottom: 10px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: -0.30000001192092896px;
+    text-align: left;
+}
+.price{
+    margin-top: 40px;
+}
+.price p{
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: -0.30000001192092896px;
+    text-align: left;
+    margin-bottom: 10px;
+
+
+}
+.vector-nav{
+    transform: rotate(-90deg);
+    margin-left: 5px;
+}
+
+.specialization .div-box h3{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: -0.30000001192092896px;
+    text-align: left;
+    color: #56CCF2;
+    margin-bottom: 60px;
+
+}
+.icon{
+    margin-bottom: 2%;
+    width : 34px;
+    height : 38px
+}
+.planning .header p,h3{
+    text-align: center;
+    color: #FFFFFF;
+}
+.planning .header p{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22px;
+    margin-left: 45px;
+    color: black;
+}
+
+
+.planning .header{
+    background-color: #FF9F28;
+}
+
+.planning .steps .step{
+    padding-top: 12px;
+    padding-left: 17px;
+    height: 46px;
+    width: 46px;
+    background-color: grey;
+    border-radius: 100%;
+    margin-bottom: 20px;
+    margin-top: 20px;
+
+}
+.planning .steps .box {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+.planning .communicationMethod .btn{
+    border: none ;
+    width : 136px;
+    border-radius: 5px;
+    height : 60px;
+    margin-left: 15px;
+}
+.planning .communicationMethod{
+    margin-top: 15px;
+}
+.btn_icon{
+    margin-bottom: -12px;
+    height: 25px;
+}
+.planning textarea{
+    width :462px;
+    height :197px;
+    resize: none;
+}
+.month .march, .month .march_days{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+.month .march_days{
+    color: grey;
+}
+.change_month{
+    transform: rotate(90deg);
+}
+.left{
+    margin-left: 500px;
+    transform: rotate(-90deg);
+    margin-top: 15px;
+}
+.hours button{
+    border:none ;
+    height: 37px;
+    width: 79px;
+    left: 1019px;
+    top: 1092px;
+    border-radius: 4px;
+    margin-left: 20px;
+
+}
+.hours{
+    margin-bottom: 25px;
+
+}
+.showAll{
+    margin-left: 30%;
+    border: none;
+
+}
+.vector_btn{
+    margin-left: 15px;
+}
+.SignUp{
+    margin-top: 25px;
+    height: 40px;
+    width: 355px;
+    left: 1077px;
+    top: 1389px;
+    border-radius: 10px;
+    background-color: #56CCF2;
+    margin-left: 15%;
+}

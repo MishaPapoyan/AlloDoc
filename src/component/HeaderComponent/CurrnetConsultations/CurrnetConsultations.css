@@ -1,0 +1,82 @@
+section .myRecs{
+    text-align: center;
+}
+section{
+    margin-top: 50px;
+}
+.border{
+    padding: 15px;
+    border: 2px solid #D1D1D1;
+    width: 1160px;
+    margin-left: 150px;
+    border-radius: 10px;
+
+}
+ul{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+ul li{
+    margin-left: 51px;
+}
+.stats,.left_side{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.infoDoctor,.doctor_name{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.infoDoctor .doctor_name .content h2,p{
+    margin-right: 20px ;
+}
+.infoDoctor .doctor_name img{
+    border-radius: 50%;
+}
+.infoDoctor .doctor_name .content{
+    margin-left: 25px;
+
+}
+.recording button{
+    display: block;
+    margin-bottom: 34px;
+    height: 40px;
+    width: 225px;
+    border-radius: 5px;
+    background: #56CCF2;
+}
+
+.recording span{
+    height: 17px;
+    width: 206px;
+    color: #A7A7A7;
+    margin-left: 25px;
+}
+
+.recording{
+    margin-right: 40px;
+}
+.stats .bron{
+    padding: 5px;
+    border-radius: 10px;
+    background: #FFAB43;
+}
+.filter{
+    display: inline;
+    margin-left:  70px;
+}
+.myRecs{
+    text-align: center;
+    margin-bottom: 70px;
+}
+.nav{
+    margin-top: 150px;
+}
+
+.infoDoctor img{
+    width: 140px;
+    height: 140px;
+}

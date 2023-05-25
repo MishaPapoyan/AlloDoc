@@ -1,0 +1,67 @@
+{
+	"translate": [
+		{
+			"header": {
+				"ul_howUse": "how use",
+				"ul_MyRecords": "My Records",
+				"ul_ToMakeAnAppointmentWithADoctor": "To make an appointment with a doctor",
+				"userName": "Artem Sviridov"
+			}
+		},
+		{
+			"SignUp": {
+				"OnlineConsultations": "Online consultations from specialists 24/7",
+				"description": "Consult now or by preliminary recording of your computer or with the help of our application available in the App Store and Google Play",
+				"buttons": {
+					"signUp": "sign up",
+					"howitWorks": "how it works?"
+				}
+			}
+		},
+		{
+			"SignUpToConsultations": {
+				"ToMakeAnAppointmentWithADoctor": "To make an appointment with a doctor",
+				"h2": "More than 1,500 doctors and more than 50 different specializations",
+				"ul_admission": "Reception at a convenient time for you, without a visit to the clinic",
+				"ul_experience": "Doctors with work experience for more than 8 years",
+				"ul_recommendation": "We clearly explain the cause of the disease and give a detailed recommendation",
+				"signUp": "sign up"
+			}
+		},
+		{
+			"CurrnetConsultations": {
+				"h2": "my records",
+				"TheUpcomingOnes": "The upcoming ones",
+				"Past": "Past",
+				"Canceled": "Canceled",
+				"meansOfCommunication": "Video communication",
+				"Reservation": "Planned",
+				"ViewTheRecord": "View the record",
+				"SeeTheDecision": "See the decision"
+			}
+		},
+		{
+			"footer": {
+				"aboutUs1": "Online consultations of specialists of doctors, that",
+				"aboutUs2": "Offers this service.",
+				"aboutUs3": "In our web -up and mobile applications you will find experienced doctors, ",
+				"howUse": "How use",
+				"FAQ": "FAQ (Answers the questions)",
+				"forDocs": "For Doctors",
+				"aboutService": "about service",
+				"contact": "Contacts",
+				"TermsOfUse": "Terms of use",
+				"address": "Moscow city.Ul, Lenin 54, office 51",
+				"toWorkSchedule": "Mon-Sun from 09:00 to 18:00"
+			}
+		},
+		{
+			"userProfile": {
+				"myPage": "My page",
+				"upBalanse": "To up your balance",
+				"FAQ": "FAQ",
+				"LogOut": "Log out"
+			}
+		}
+	]
+}

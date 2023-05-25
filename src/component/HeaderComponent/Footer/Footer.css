@@ -1,0 +1,43 @@
+footer{
+    margin-top: 180px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: black;
+    padding: 20px;
+}
+
+footer .contact .box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer .contact .box p{
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 15px;
+    text-align: left;
+    margin-left: 15px;
+}
+
+footer  p{
+    color: white;
+}
+
+footer button{
+    height: 50px;
+    width: 182px;
+    margin: 5px;
+}
+footer button img{
+    margin-bottom: -5px;
+    margin-right:  15px;
+}
+footer .about_us p{
+    margin-top: 40px;
+}
+
+footer .about_us p{
+    margin-bottom:  28px;
+}
