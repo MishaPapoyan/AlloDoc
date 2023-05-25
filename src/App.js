@@ -25,14 +25,14 @@ function App() {
   return (
       <>
           <TranslateContext.Provider value={len}>
-              {/*<Header setlen={setLen  len=leng/>*/}
+              <Header setlen={setLen} len={leng}/>
               <Routes>
-                  <Route path={'/'} element={<Header  setlen={setLen} len={leng}/>}/>
-                  <Route path={'/doctor'} element={<DoctorPage/>}/>
-                  <Route path={'/balance'} element={<MyBalanceComponent/>}/>
-                  <Route path={'/notes'} element={<MyNotes/>}/>
+                  <Route path={'/'} element={<HeaderAll/>}/>
+                  <Route path='/doctor' element={<DoctorPage/>}/>
+                  <Route path='/balance' element={<MyBalanceComponent/>}/>
+                  <Route path='/notes' element={<MyNotes/>}/>
               </Routes>
-              <HeaderAll/>
+
 
               <Outlet/>
               <Footer/>
